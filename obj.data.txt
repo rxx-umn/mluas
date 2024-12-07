@@ -1,0 +1,5 @@
+classes = 6
+train = C:/Users/siswa/Desktop/Project-UTS/train.txt
+valid = C:/Users/siswa/Desktop/Project-UTS/valid.txt
+names = C:/Users/siswa/Desktop/Project-UTS/obj.names
+backup = C:/Users/siswa/Desktop/Project-UTS/backup

@@ -1,0 +1,9 @@
+book
+bottle
+ktm
+laptop
+pen
+phone
+tumbler
+
+
